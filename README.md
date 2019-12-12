@@ -1,4 +1,4 @@
-# Generate Table of Behavioral Data from .CSV ABET II File
+# Generate Table from .CSV ABET II File
 ## Description
 This code allows for generation of a data table of a .csv file of behavioral data acquired from ABET II software based on user input. Output of the code is a table which displays behavioral activities of the subject during each trial of the test session.
 ## Installation
